@@ -15,6 +15,8 @@
 > дифф и используйте тестовое подключение для новых сценариев.
 
 
+![Интерфейс Turbo Commander](docs/assets/turbo-commander-interface.png)
+
 ## Скачать
 
 [Последний выпуск для Linux и Windows](https://github.com/visualklik/yandex-turbo-commander/releases/latest).
